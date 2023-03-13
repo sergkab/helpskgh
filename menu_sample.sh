@@ -14,6 +14,12 @@ case $os in
 
      ;;
 
+  "Windows7")
+
+     echo "Oh, $os."
+
+     ;;
+
   "Windows8" | "Windows10" | "WindowsXP")
 
      echo "Why don't you try Linux?"
