@@ -9,5 +9,8 @@ echo "ssh belcantist@beta.belcanto.ru"
 
 echo
 echo gcc
-
+echo poka net
+echo
+echo "./menu_sample.sh"
+./menu_sample.sh
 
