@@ -16,7 +16,7 @@ case $os in
 
   "ChModX")
 
-     echo "Oh, yes, $os."
+     echo "chmod u+x file"
 
      ;;
 
