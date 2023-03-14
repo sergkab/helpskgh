@@ -1,4 +1,5 @@
 #!/bin/bash
+
 path1=~/belcanto
 path2=~/docker-exp03/dj-itprog
 #2cs $path2

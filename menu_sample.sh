@@ -2,7 +2,7 @@
 
 echo "Which Operating System do you like?"
 
-select os in Ubuntu LinuxMint Windows8 Windows7 WindowsXP
+select os in Ubuntu LinuxMint Windows8 ChModX
 
 do
 
@@ -14,13 +14,13 @@ case $os in
 
      ;;
 
-  "Windows7")
+  "ChModX")
 
-     echo "Oh, $os."
+     echo "Oh, yes, $os."
 
      ;;
 
-  "Windows8" | "Windows10" | "WindowsXP")
+  "Windows8")
 
      echo "Why don't you try Linux?"
 
