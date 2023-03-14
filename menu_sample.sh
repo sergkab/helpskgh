@@ -1,14 +1,14 @@
 #!/bin/bash
 
-echo "Which Operating System do you like?"
+echo "Which help?"
 
-select os in Ubuntu LinuxMint Windows8 ChModX
+select os in Linux Git ChModX
 
 do
 
 case $os in
 
-  "Ubuntu"|"LinuxMint")
+  "Linux")
 
      echo "I also use $os."
 
@@ -20,7 +20,7 @@ case $os in
 
      ;;
 
-  "Windows8")
+  "Git")
 
      echo "Why don't you try Linux?"
 
