@@ -15,3 +15,12 @@ echo
 echo "./menu_sample.sh"
 ./menu_sample.sh
 
+echo Запуск через pipenv
+echo устанавливаем pipenv
+echo приходим в папку belcanto
+echo делаем pipenv install
+echo pipenv shell
+echo убедиться что в docker ps ничего нет
+echo make up_local
+echo cd belcanto
+echo python3 ./manage.py runserver
